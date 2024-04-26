@@ -4,7 +4,7 @@ This repository serves as a storage space for my experiments on machine learning
 # Experiment Focus
 1. Activation Function
 2. Optimizer
-3. Hyperparameter Tuning
+3. Optimization
 
 # Algorithms Played
 1. ANN
