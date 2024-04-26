@@ -6,7 +6,7 @@ This repository serves as a storage space for my experiments on machine learning
 2. Optimizer
 3. Hyperparameter Tuning
 
-# Algorithm tested
+# Algorithms Played
 1. ANN
 2. CNN
 3. DCNN
