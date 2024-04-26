@@ -11,4 +11,6 @@ This repository serves as a storage space for my experiments on machine learning
 2. CNN
 3. DCNN
 4. DNN
-5. GAN
+5. RNN
+6. GAN
+
